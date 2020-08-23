@@ -12,7 +12,7 @@
  * const a= 5;
    const b= 6;
 
-    console.log(a>b)//fase
+    console.log(a>b)//false
     console.log(b>=a)//true
 
  */
