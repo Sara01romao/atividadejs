@@ -36,14 +36,7 @@
     console.log(a!==b)//true
 
 
-    ex:
-    const a= 10;
-    const b= "10";
-
- console.log(a==b)//true
- console.log(b===a)//false 
- console.log(b!=a)//false
- console.log(a!==b)//true
+   
 
  */
 
